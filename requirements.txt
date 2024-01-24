@@ -25,7 +25,7 @@ psutil
 psycopg2-binary
 pybase64
 Pyrogram==2.0.106
-python-dotenv==1.0.0
+python-dotenv==1.0.1
 python-magic
 python-telegram-bot==20.7
 qbittorrent-api

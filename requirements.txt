@@ -27,7 +27,7 @@ pybase64
 Pyrogram==2.0.106
 python-dotenv==1.0.0
 python-magic
-python-telegram-bot==20.7
+python-telegram-bot==20.8
 qbittorrent-api
 requests
 speedtest-cli
